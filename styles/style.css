@@ -1,0 +1,43 @@
+main {
+  display: flex;
+  margin: 20px auto 20px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 30px auto 30px;
+}
+
+.header__title {
+  display: block;
+  margin: 0 auto 15px;
+}
+
+.list__header {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+td {
+  padding: 10px 10px 0;
+  text-align: center;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer__title {
+  display: block;
+  margin: 0 auto 15px;
+  text-align: center;
+}
+
+.footer__span {
+  display: block;
+}
