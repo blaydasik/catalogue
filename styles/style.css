@@ -40,6 +40,11 @@ main {
   display: block;
 }
 
+.list__title_red {
+  border: 3px solid;
+  color: blue;
+}
+
 .list__number {
   min-width: 50px;
 }
