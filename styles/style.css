@@ -40,7 +40,7 @@ main {
   display: block;
 }
 
-.list__title_accent {
+.list__title_border {
   border: 3px solid;
   color: blue;
 }
