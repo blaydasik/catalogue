@@ -94,3 +94,7 @@ td {
 .footer__link:hover {
   text-decoration: underline;
 }
+
+.catalogue {
+  margin: 0 auto;
+}
