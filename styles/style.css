@@ -8,6 +8,7 @@ main {
   justify-content: center;
   flex-direction: column;
   margin: 30px auto 30px;
+  width: 100%;
 }
 
 .header__title {
