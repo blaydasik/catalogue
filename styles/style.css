@@ -27,6 +27,7 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: 100%;
 }
 
 .list__header {
@@ -97,5 +98,14 @@ td {
 }
 
 .catalogue {
-  margin: 0 auto;
+  width: 100%;
+  min-width: 480px;
+  overflow: scroll;
+}
+
+.adobe {
+  max-width: 1280px;
+  min-height: 780px;
+  min-width: 480px;
+  width: 100%;
 }
