@@ -22,6 +22,11 @@ main {
   display: block;
 }
 
+.text_color_blue {
+  color: blue;
+  display: block;
+}
+
 .list {
   margin: 0 auto;
   display: flex;
@@ -43,7 +48,7 @@ main {
 
 .list__title_border {
   border: 3px solid;
-  color: blue;
+  color: brown;
 }
 
 .list__number {
@@ -56,6 +61,7 @@ main {
   text-decoration: none;
   color: green;
   font-weight: bold;
+  text-align: center;
 }
 
 .list__link:hover {
@@ -90,7 +96,7 @@ td {
   font-size: 24px;
   font-style: normal;
   font-weight: bold;
-  color: blue;
+  color: orange;
 }
 
 .footer__link:hover {
@@ -98,7 +104,6 @@ td {
 }
 
 .catalogue {
-  width: 100%;
   min-width: 480px;
   overflow: scroll;
 }
