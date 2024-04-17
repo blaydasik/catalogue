@@ -47,8 +47,8 @@ main {
 }
 
 .list__title_border {
-  border: 3px solid;
   color: brown;
+  border: 3px solid;
 }
 
 .list__number {
