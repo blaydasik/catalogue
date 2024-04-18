@@ -106,6 +106,7 @@ td {
 .catalogue {
   min-width: 480px;
   overflow: scroll;
+  width: 100%;
 }
 
 .adobe {
