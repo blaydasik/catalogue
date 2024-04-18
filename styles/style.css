@@ -107,6 +107,7 @@ td {
   min-width: 480px;
   overflow: scroll;
   width: 100%;
+  margin: 0 15px;
 }
 
 .adobe {
