@@ -99,7 +99,7 @@ main {
 }
 
 .catalogue {
-  min-width: 480px;
+  min-width: 320px;
   overflow: scroll;
   width: 100%;
 }
@@ -107,7 +107,7 @@ main {
 table {
   border-collapse: collapse;
   text-align: left;
-  width: 100%;
+
 }
 
 table tr {
