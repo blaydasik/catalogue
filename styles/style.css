@@ -129,3 +129,8 @@ td {
   min-width: 480px;
   width: 100%;
 }
+
+.accent {
+  text-decoration: underline;
+  font-weight: bold;
+}
