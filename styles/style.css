@@ -134,3 +134,9 @@ td {
   text-decoration: underline;
   font-weight: bold;
 }
+
+.line-through {
+  /* Перечёркнутый текст */
+  text-decoration: line-through;
+  text-decoration-color: red;
+}
