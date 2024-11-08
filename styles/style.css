@@ -17,7 +17,7 @@ main {
   text-align: center;
 }
 
-.header__link {
+.header__link { 
   margin: 20px auto;
   font-size: 24px;
   font-weight: bold;
