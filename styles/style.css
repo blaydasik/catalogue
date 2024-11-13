@@ -13,7 +13,7 @@ main {
 
 .header__title {
   display: block;
-  margin: 0 auto 15px;
+  margin: 15px auto;
   text-align: center;
 }
 
