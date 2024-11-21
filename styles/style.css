@@ -61,6 +61,10 @@ main {
   min-width: 50px;
 }
 
+.list__table {
+  margin: auto;
+}
+
 .list__link {
   margin: 20px auto;
   font-size: 28px;
