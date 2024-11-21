@@ -65,6 +65,10 @@ main {
   margin: auto;
 }
 
+.list__bold {
+  font-weight: bold;
+}
+
 .list__link {
   margin: 20px auto;
   font-size: 28px;
