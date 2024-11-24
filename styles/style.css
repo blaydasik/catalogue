@@ -82,6 +82,10 @@ main {
   text-decoration: underline;
 }
 
+.list__image {
+  width: 50%;
+}
+
 .footer {
   display: flex;
   flex-direction: column;
