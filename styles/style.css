@@ -110,6 +110,7 @@ main {
   font-style: normal;
   font-weight: bold;
   color: orange;
+  text-align: center;
 }
 
 .footer__link:hover {
@@ -167,4 +168,9 @@ td {
   align-items: center;
   padding: 0 20px;
   width: 50%;
+}
+
+.footer__address {
+  display: flex;
+  flex-direction: column;
 }
